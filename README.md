@@ -31,7 +31,7 @@ SOLID Design Principles
 	- Violations of ISP -> Fat interfaces, interfaces with low cohesion, empty method implementations.
 	
 5. DIP <br/>
-	High-level modules should not depend on low-level modules. Both should depend on abstractions and abstractions should not depend on details rather details should depend on abstractions.
+	High-level modules should not depend on low-level modules, both should depend on abstractions and abstractions should not depend on details rather details should depend on abstractions.
 	
 	- Dependency Injection is different from Dependency Inversion
 
